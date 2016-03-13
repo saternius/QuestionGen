@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Thesis.iml" filepath="$PROJECT_DIR$/Thesis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Projects/NLParser/pdfbox-2.0.0-RC3/tools/src/main/main.iml" filepath="$PROJECT_DIR$/../../Projects/NLParser/pdfbox-2.0.0-RC3/tools/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Projects/NLParser/pdfbox-2.0.0-RC3/xmpbox/src/main/main1.iml" filepath="$PROJECT_DIR$/../../Projects/NLParser/pdfbox-2.0.0-RC3/xmpbox/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Projects/NLParser/pdfbox-2.0.0-RC3/pdfbox/src/main/main2.iml" filepath="$PROJECT_DIR$/../../Projects/NLParser/pdfbox-2.0.0-RC3/pdfbox/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Projects/NLParser/pdfbox-2.0.0-RC3/examples/src/main/main3.iml" filepath="$PROJECT_DIR$/../../Projects/NLParser/pdfbox-2.0.0-RC3/examples/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Projects/NLParser/pdfbox-2.0.0-RC3/fontbox/src/main/main4.iml" filepath="$PROJECT_DIR$/../../Projects/NLParser/pdfbox-2.0.0-RC3/fontbox/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Projects/NLParser/pdfbox-2.0.0-RC3/preflight/src/main/main5.iml" filepath="$PROJECT_DIR$/../../Projects/NLParser/pdfbox-2.0.0-RC3/preflight/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Projects/NLParser/pdfbox-2.0.0-RC3/debugger/src/main/main6.iml" filepath="$PROJECT_DIR$/../../Projects/NLParser/pdfbox-2.0.0-RC3/debugger/src/main/main6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Projects/NLParser/pdfbox-2.0.0-RC3/examples/src/test/test.iml" filepath="$PROJECT_DIR$/../../Projects/NLParser/pdfbox-2.0.0-RC3/examples/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Projects/NLParser/pdfbox-2.0.0-RC3/pdfbox/src/test/test1.iml" filepath="$PROJECT_DIR$/../../Projects/NLParser/pdfbox-2.0.0-RC3/pdfbox/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Projects/NLParser/pdfbox-2.0.0-RC3/preflight/src/test/test2.iml" filepath="$PROJECT_DIR$/../../Projects/NLParser/pdfbox-2.0.0-RC3/preflight/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Projects/NLParser/pdfbox-2.0.0-RC3/fontbox/src/test/test3.iml" filepath="$PROJECT_DIR$/../../Projects/NLParser/pdfbox-2.0.0-RC3/fontbox/src/test/test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Projects/NLParser/pdfbox-2.0.0-RC3/xmpbox/src/test/test4.iml" filepath="$PROJECT_DIR$/../../Projects/NLParser/pdfbox-2.0.0-RC3/xmpbox/src/test/test4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Projects/NLParser/pdfbox-2.0.0-RC3/tools/src/test/test5.iml" filepath="$PROJECT_DIR$/../../Projects/NLParser/pdfbox-2.0.0-RC3/tools/src/test/test5.iml" />
+    </modules>
+  </component>
+</project>

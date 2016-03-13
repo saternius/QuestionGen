@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: edu.illinois.cs.cogcomp:illinois-chunker:model:2.0.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/illinois/cs/cogcomp/illinois-chunker/2.0.1/illinois-chunker-2.0.1-model.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/illinois/cs/cogcomp/illinois-chunker/2.0.1/illinois-chunker-2.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/illinois/cs/cogcomp/illinois-chunker/2.0.1/illinois-chunker-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

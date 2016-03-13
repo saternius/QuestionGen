@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: edu.illinois.cs.cogcomp:illinois-ner:2.8.9-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/illinois/cs/cogcomp/illinois-ner/2.8.9-SNAPSHOT/illinois-ner-2.8.9-20151211.182237-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/illinois/cs/cogcomp/illinois-ner/2.8.9-SNAPSHOT/illinois-ner-2.8.9-20151211.182237-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/illinois/cs/cogcomp/illinois-ner/2.8.9-SNAPSHOT/illinois-ner-2.8.9-20151211.182237-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

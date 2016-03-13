@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: edu.cmu.cs.ark:ChuLiuEdmonds:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/cmu/cs/ark/ChuLiuEdmonds/1.0-SNAPSHOT/ChuLiuEdmonds-1.0-20150726.185047-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/cmu/cs/ark/ChuLiuEdmonds/1.0-SNAPSHOT/ChuLiuEdmonds-1.0-20150726.185047-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/cmu/cs/ark/ChuLiuEdmonds/1.0-SNAPSHOT/ChuLiuEdmonds-1.0-20150726.185047-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
